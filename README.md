@@ -1,5 +1,5 @@
 <h2> Hi, I'm José Francisco Gómez </h2>
-<img align="right" src="https://user-images.githubusercontent.com/64250947/88358058-87015f00-cd3b-11ea-8298-e5c2c657e0d8.png" width="200"/>
+<img align="right" src="https://user-images.githubusercontent.com/64250947/88387660-ef266400-cd80-11ea-92df-d818e0f33f5f.png" width="200"/>
 <p><em>
   Medium Technical in Commerce and Administrative Systems, Mention: Informatique.
   <br>
