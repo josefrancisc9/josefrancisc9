@@ -18,7 +18,7 @@ const jose = {
     frontEnd: ['vue', 'nuxt', 'react', 'redux'],
     backEnd: ['node', 'express'],
     database: ['mongodb', 'mysql'],
-    misc: ["firebase", "socket.io"]
+    misc: ['firebase', 'socket.io']
   },
   architecture: ["Progressive web applications", "Single page applications"],
   currentProject: "I am developing Web App front a2 Softway",
