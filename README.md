@@ -3,7 +3,7 @@
 <p><em>
   Medium Technical in Commerce and Administrative Systems, Mention: Informatique.
   <br>
-  Frontend Developer at <a href="https://www.academiaa2.com/">a2 Academia</a>.
+  Frontend Developer Junior.
 </em></p>
 
 [![Linkedin: josefrancisc9](https://img.shields.io/badge/-josefrancisc9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josefrancisc9/)](https://www.linkedin.com/in/josefrancisc9/)
@@ -21,7 +21,7 @@ const jose = {
     misc: ['firebase', 'socket.io']
   },
   architecture: ["Progressive web applications", "Single page applications"],
-  currentProject: "I am developing Web App front a2 Softway",
+  currentProject: "I am developing Web App to Transeyon C.A.",
 }
 ```
 
